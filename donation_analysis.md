@@ -15,6 +15,6 @@ frequently and the time this report was downloaded for analysis was on April 28,
 
 Link for the complete and interactive Tableau workbook can be found [here](https://public.tableau.com/views/DashboardofBillMelindaGatesFoundationDonations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link), with the file being available to download 
 
-### 
+
 
 
